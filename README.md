@@ -28,7 +28,7 @@ An interactive Python-based simulation for modeling the impact of COVID-19 acros
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/covid19-simulation.git
+   git clone https://github.com/itscharanteja/covid19-simulation.git
    cd covid19-simulation
    ```
 
@@ -67,7 +67,7 @@ An interactive Python-based simulation for modeling the impact of COVID-19 acros
 
 ## 📈 Example Visualization
 
-![Example Visualization](example-visualization.png)
+![Example Visualization](a2-covid-simulation.png)
 
 ## 🤝 Contribution
 
@@ -86,8 +86,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact:
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Author**: Charan Sri Teja
+- **Email**: itscharanteja789@example.com
+
 
 Enjoy exploring the simulation! 🎉
